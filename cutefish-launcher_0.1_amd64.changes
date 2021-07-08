@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-launcher
+Binary: cutefish-launcher
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-launcher - CutefishOS Launcher
+Changes:
+ cutefish-launcher (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ f18d82028b429bba0887eb8fd541c58642fcdc3f 1705112 cutefish-launcher-dbgsym_0.1_amd64.ddeb
+ 6e151e1311449d57e163a1b746d6dea376998907 12895 cutefish-launcher_0.1_amd64.buildinfo
+ 34bce694872a393a809ef0c630b8f8433b6844fe 43952 cutefish-launcher_0.1_amd64.deb
+Checksums-Sha256:
+ fe24e4aebc181185454d515fc19809d183687840f9131d149c8bbb399f5f5d9d 1705112 cutefish-launcher-dbgsym_0.1_amd64.ddeb
+ 7c8c78c6fd56f38a610688a86099103ad4aabf3ff429f14cadc34a1f8cd792a5 12895 cutefish-launcher_0.1_amd64.buildinfo
+ 88570fd8cea92cfcab86f7b91a1b22688ad3d7b1d490d186b99a5c28e17d15b6 43952 cutefish-launcher_0.1_amd64.deb
+Files:
+ a916149d530e90b5c75fe67f01550277 1705112 debug optional cutefish-launcher-dbgsym_0.1_amd64.ddeb
+ b6385b70f83c0dba00bdaab0fc2f113f 12895 devel optional cutefish-launcher_0.1_amd64.buildinfo
+ 3c17d5ec1212fe26cf2f1634c9469836 43952 devel optional cutefish-launcher_0.1_amd64.deb

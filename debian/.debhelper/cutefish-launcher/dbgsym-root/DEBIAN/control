@@ -1,0 +1,13 @@
+Package: cutefish-launcher-dbgsym
+Package-Type: ddeb
+Source: cutefish-launcher
+Version: 0.1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 1732
+Depends: cutefish-launcher (= 0.1)
+Section: debug
+Priority: optional
+Description: debug symbols for cutefish-launcher
+Build-Ids: e7beef6f6ddce5ab489ac80722922d626926a664

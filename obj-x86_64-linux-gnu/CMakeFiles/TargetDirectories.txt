@@ -1,0 +1,10 @@
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/install.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/translations.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/cutefish-launcher.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/KF5WindowSystem_QCH.dir
+/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/cutefish-launcher_autogen.dir

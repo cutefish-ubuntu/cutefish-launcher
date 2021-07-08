@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/cutefish-launcher_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/launcher",
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/launcher",
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/cutefish-launcher_autogen/include",
+	"INPUTS" : 
+	[
+		"/root/Downloads/cutefish/launcher/qml/PageView.qml",
+		"/root/Downloads/cutefish/launcher/qml/LauncherGridDelegate.qml",
+		"/root/Downloads/cutefish/launcher/qml/main.qml",
+		"/root/Downloads/cutefish/launcher/qml/LauncherGridView.qml"
+	],
+	"LOCK_FILE" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/cutefish-launcher_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/launcher/obj-x86_64-linux-gnu/CMakeFiles/cutefish-launcher_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/root/Downloads/cutefish/launcher/qml.qrc",
+	"VERBOSITY" : 0
+}
